@@ -1,0 +1,276 @@
+---
+title: "CV"
+author: "Fran Morena"
+date: "2023-02-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# FRANCIELLY MORENA  
+314-456-5538 | Cielly.morena.fm@gmail.com |
+**TWitter**: @franmorena98 | **Google Scholar**: [Francielly Morena](https://scholar.google.com/citations?user=sCBhaOsAAAAJ&hl=en&oi=ao)
+  
+### **PROFESSIONAL SUMMARY**   
+Experienced Student Researcher in physiology, exercise, and cancer. Earned BS in Exercise Science and desiring to further develop more skills to perform in the scientific research field and as a college professor. Passionate about learning and mentoring. Currently working on my Doctorate degree at University of Arkansas.
+
+### **EDUCATION**
+
+**PhD in Health, Sports, and Exercise Science** | University of Arkansas    
+_JULY 2020 – CURRENT.  GPA: 3.909_
+
+* Graduate assistant and research duties at the cachexia research laboratory
+* Teaching assistant (2020-2022)
+* Graduate Student Organization Representative
+
+**BS in Exercise Science** | Missouri Baptist University   
+_AUGUST 2018 – MARCH 2020_    
+Transferred student from University of Sao Paulo, Brazil. GPA: 3.7
+
+* Part of the women’s Tennis Team
+* Fellow Student – Mr. Michael J. Nolan
+* President of Honor Society KON
+* Communication and social media – Exercise is Medicine on Campus
+
+**BS in Exercise Science** | University of Sao Paulo, Sao Paulo, Brazil  
+_JANUARY 2016 – JULY 2018_  
+
+* Undergraduate researcher at the Physiology and Biochemistry of Exercise Laboratory
+
+### **PROFESSIONAL EXPERIENCE**
+
+**Research Assistant** | University of Arkansas, Fayetteville, Arkansas  
+_JULY 2022 – CURRENT_  
+Responsible for leading and collecting data of two projects funded by an R01 NIH grant. Currently working with maintenance of Bnip3 genetic deletion and Opa1 transgenic overexpression to mitigate cancer-induced muscle atrophy. Besides that, my responsibility expands to writing manuscripts, grants, and coordinate and mentor multiple undergraduate students.
+
+**Graduate Student Organization Representative**  
+_JULY 2022 – CURRENT_  
+Responsible for representing the graduate student body (599 students) in Graduate-Professional Student Congress, with voting privileges. I am founder and responsible for the Minority Group and Women in Science (MGWS) Support group and coordinate recognition awards by faculty appointment. The MGWS is a support group to empower minorities and women in science and recognize outstanding efforts and contribution to science.
+
+**Graduate Assistant** | University of Arkansas, Fayetteville, Arkansas  
+_JULY 2020 – JULY 2022_  
+Responsible for undergraduate level lecture planning, make slides, grading, teach technical procedures, assist student in and out on classroom setting. Research duties in focusing on cancer cachexia and mitochondrial health.
+
+
+**Collaboration in Research** | Missouri Baptist University, St. Louis, Missouri  
+_AUGUST 2019 – MAY 2020_  
+Helping in data collection of a Sport Phycology research. The purpose of this research is seeing the effects of Self-Control training in physical performance.
+
+**Teaching Assistant** | Missouri Baptist University, St. Louis, Missouri  
+_AUGUST 2019 – MAY 2020_  
+Student teaching assistant for undergraduate Testing and Prescription laboratory. Responsible for Lecture planning, make slides, grading, teach technical procedures, assist student in and out on classroom setting.
+
+**Student Researcher** | University of Sao Paulo, Sao Paulo, Brazil  
+_OCTOBER 2016 – JULY 2018_  
+Worked on my own research project and helped others during experiments. Project: Characterization of The Effects of Physical Exercise In The Structural Alteration of Tumor In Murine Cancer Models. With participation in the SIICUSP, Symposium of scientific initiation of University of Sao Paulo. 
+
+### **MANUSCRIPT PUBLICATION**
+
+1.	**Morena da Silva**, F., Lim, S., Cabrera, A.R., Schrems, E.R., Jones III, R.G., Rosa-Caldwell, M., Washington, T.A., Murach, K.A. and Greene, N.P., 2022. _The Time-Course of Cancer Cachexia Onset Reveals Biphasic Transcriptional Disruptions in Female Skeletal Muscle Distinct from Males_. bioRxiv, pp.2022-11.  
+PI: Nicholas Greene, Role: First Author
+
+2.	Murach, K.A., Liu, Z., Jude, B., Figueiredo, V.C., Wen, Y., Khadgi, S., Lim, S., **da Silva, F.M.**, Greene, N.P., Lanner, J.T. and McCarthy, J.J., 2022. _Multi-transcriptome analysis following an acute skeletal muscle growth stimulus yields tools for discerning global and MYC regulatory networks_. Journal of Biological Chemistry, 298(11).  
+PI & First Author: Kevin A. Murach, Role: Middle Author. 
+
+3.	Jones III, R.G., Dimet‐Wiley, A., Haghani, A., **da Silva, F.M.**, Brightwell, C.R., Lim, S., Khadgi, S., Wen, Y., Dungan, C.M., Brooke, R.T. and Greene, N.P., 2023. _A molecular signature defining exercise adaptation with ageing and in vivo partial reprogramming in skeletal muscle_. The Journal of Physiology, 601(4), pp.763-782. 
+PI: Kevin A. Murach. First Author: Ronal G. Jones III, Role: Middle Author
+
+4.	Lim, S., Deaver, J.W., Rosa-Caldwell, M.E., Haynie, W.S., **Morena da Silva, F.**, Cabrera, A.R., Schrems, E.R., Saling, L.W., Jansen, L.T., Dunlap, K.R. and Wiggs, M.P., Washington, T.A. and Greene, N.P. 2022. _Development of metabolic and contractile alterations in development of cancer cachexia in female tumor-bearing mice_. Journal of Applied Physiology, 132(1), pp.58-72.  
+PI: Nicholas Greene, First Author: Seongkyun Lim, Role: Middle Author.
+
+5.	Seongkyun Lim, J. William Deaver, Megan E. Rosa-Caldwell, David E. Lee, **Francielly Morena da Silva**, Ana Regina Cabrera, Eleanor R. Schrems, Landen W. Saling, Tyrone A. Washington, James D. Fluckey, and Nicholas P. Greene. _Muscle miR-16 deletion results in impaired insulin sensitivity and contractile function in a sex-dependent manner_. American Journal of Physiology-Endocrinology and Metabolism 2022 322:3, E278-E292  
+PI: Nicholas Greene, First Author: Seongkyun Lim, Role: Middle Author.
+
+6.	**Morena da Silva, F.**, Rosa-Caldwell, M.E., Schrems, E.R., Martinez, L., Amos, M.G., Lim, S., Cabrera, A.R., Brown, J.L., Washington, T.A. and Greene, N.P., 2022. _PGC-1α overexpression is not sufficient to mitigate cancer cachexia in either male or female mice._ Applied Physiology, Nutrition, and Metabolism, 47(9), pp.933-948.  
+PI: Nicholas Greene, Role: First Author. 
+
+7.	Rosa‐Caldwell, M.E., Lim, S., Haynie, W.A., Brown, J.L., Deaver, J.W., **Morena Da Silva, F.**, Jansen, L.T., Lee, D.E., Wiggs, M.P., Washington, T.A. and Greene, N.P., 2021. _Female mice may have exacerbated catabolic signalling response compared to male mice during development and progression of disuse atrophy_. Journal of Cachexia, Sarcopenia and Muscle, 12(3), pp.717-730.  
+PI: Nicholas Greene, First Author: Megan Rosa-Caldwell, Role: Middle Author.
+
+### **MANUSCRIPTS IN REVIEW OR PROGRESSION**  	
+
+1.	**Original Article**. Title: Sex Differences in the Onset of Muscle Wasting in a C26 Carcinoma Mouse Model of Cancer Cachexia. Status: writing in co-authors review. PI: Nicholas Greene. Role: middle author
+Status: Under Review on Biology of Sex Differences Journal (BMC) PI: Nicholas Greene, **Role: Middle Author**. 
+2.	**Original Article.** Title: The Time-Course of Cancer Cachexia Onset Reveals Biphasic Transcriptional Disruptions in Female Skeletal Muscle Distinct from Males.
+Status: Under Review in Genomics BMC. PI: Nicholas Greene. **Role: First Author**.
+
+_In preparation_ 
+
+3.	**Original Article**. Title: MicroRNA Control of the Myogenic Cell Transcriptome and Proteome: The Role of miR-16.
+Status: To be submitted within the next couple weeks to AJP Cell. PI. Nicholas Greene and Kevin Murach.  
+First author: Seonkyun Lim. **Role: Middle Author**. 
+4.	**Review**. Working Title: Inflammation O’Clock: Roles of Circadian Rhythms in Inflammation-Induced Muscle Atrophy. 
+Status: Final reviewing by Karyn Esser – aiming to submit within the next 2 months.   
+PI: Nicholas Greene, Kevin Murach, and Karyn Esser **Role: First author**.  
+5.	**Original Article**. Biological Sex Dimorphism in Transcriptomic Profile of Mice Subjected to Hindlimb Unloading
+Status: Manuscript draft is being reviewed by PI and will be sent to co-author soon.  
+Targeting submission within the next month at Physiological Genomics. PI: Nicholas Greene. First author: Stravroula Tsitkanou. **Role: Middle author**  
+6.	**Original Article**. Working title: Methylomics of Gene Expression in Skeletal Muscle During the Onset of Colorectal Cancer-Induced Cachexia.  
+Status: Analysis has been completed; manuscript started. **Role: Middle Author** 
+
+### **RESEARCH GRANT**
+
+_Active_
+*Title*: Development of Targeted Approaches in Prevention of Cancer-cachexia
+*PI*: Nicholas P. Greene
+*Agency*: NIH NIAMS
+*Type*: R01 AREA Award, $1.600,000.00 (R01AR075794-01A1)
+*Period*: July 1, 2020 – June 30, 2025
+*Role*: Graduate Research Assistant
+
+_Past_
+*Title*: Mitochondrial Degeneration – The Root of Skeletal Muscle Atrophy
+*PI*: Nicholas P. Greene
+*Agency*: NIH NIAMS
+*Type*: R15 AREA Award, $412,668.00 (R15AR069913)
+*Period*: July 1, 2017 – June 30, 2021
+*Role*: Graduate Research Assistant
+
+_Applied, not awarded_: 
+Central ACSM PD Student Research Grant 
+Title: Effects of Circadian Rhythm Genes on Cancer Cachexia 
+Role: PI
+
+_Applied, revision pending_:
+NCI F99/K00 Pre-doctoral to post-doctoral transitional grant
+Title: Mitophagy, the Circadian Rhythm, and Cancer Cachexia
+Role: PI 
+
+
+_GPSC STEM Research Grant, review pending_: 
+Title: Circadian rhythm manipulation effects on cancer cachexia
+Role: PI 
+
+### **HONORS AND AWARDS**  
+
+**Oustanding PhD Student Nominee** | Univeristy of Arkansas
+_2023_  
+Outstanding PhD Student of the Health Human Performande and Recreation Department
+
+**APS Award** | American Physiological Society  
+_2021_
+Outstanding Flash Talk Presentation
+
+**KON honor member** | Missouri Baptist University
+_2019_  
+Outstanding Student on Health and Sports Science Department
+
+**CNPq Research Scholarship**| University of Sao Paulo  
+_2017 – 2018_  
+Undergraduate researcher scholarship
+
+### **PRESENTATIONS**
+
+National ACSM Meeting – 5 minutes talk 
+_2022_, San Diego, California, USA.
+A Biological Sex Comparison of Muscle Contractile Function and Calcium regulation in The Onset of Colorectal Cancer-Induced Cachexia
+**Francielly Morena da Silva**, J. William Deaver, Seongkyun Lim, Ana Regina Cabrera, Eleanor Schrems, Landen Saling, Tyrone A. Washington, Nicholas P. Greene
+
+International Biochemistry of Exercise Conference (IBEC)
+_2022_, Toronto, Canada.
+A Transcriptional Signature of Cancer Cachexia Development in Female Mice
+**Francielly Morena da Silva**, Ana Regina Cabrera, Seongkyun Lim, Eleanor Schrems, Landen Saling, 
+Tyrone A. Washington, Kevin A. Murach, Nicholas P. Greene
+
+Sarcopenic Obesity Alters Global Gene Expression in the Gastrocnemius Muscle 
+Eleanor R. Schrems, **Francielly Morena da Silva**, Landen W. Saling, Seongkyun Lim, Ana Regina Cabrera, Kevin A. Murach, Nicholas P. Greene, Tyrone A. Washington
+
+A Transcriptomic Comparison of Biological Sex and Stimulus in Muscle Atrophy: Focus on Satellite-Cell Markers
+Seongkyun Lim, **Francielly Morena da Silva**, Ana Regina Cabrera, Megan E. Rosa-Caldwell, Jacob L. Brown, J. William Deaver, Tyrone A. Washington, Kevin A. Murach, and Nicholas P. Greene 
+
+
+Sarcopenia, Cachexia and Wasting Disorders Meeting (SCWD)
+_2022_, Lisbon, Portugal.
+Colorectal Cancer-Induced Cachexia Reduces Dnmt3a and Differentially Alters the Skeletal Muscle Transcriptome by Biological Sex
+Ana Regina Cabrera, **Francielly Morena da Silva**, Seongkyun Lim, Tyrone A. Washington, Kevin A. Murach, Nicholas P. Greene
+
+OPA1 overexpression may protect against cancer-induced muscle wasting
+Tsitkanou S, Lim S, **Morena da Silva F**, Cabrera AR, Schrems ER, Washington TA, Murach KA, Greene NP
+
+ABI Fall Research Symposium 
+_2022_, Fayetteville, Arkansas, USA.
+Colorectal Cancer-Induced Cachexia Reduces Dnmt3a and Differentially Alters the Skeletal Muscle Transcriptome by Biological Sex
+Ana Regina Cabrera, **Francielly Morena da Silva**, Seongkyun Lim, Tyrone A. Washington, Kevin A. Murach, Nicholas P. Greene
+
+AIMRC Symposium
+_2022_, Fayetteville, Arkansas, USA.
+Colorectal Cancer-Induced Cachexia Reduces Dnmt3a and Differentially Alters the Skeletal Muscle Transcriptome by Biological Sex
+Ana Regina Cabrera, **Francielly Morena da Silva**, Seongkyun Lim, Tyrone A. Washington, Kevin A. Murach, Nicholas P. Greene
+
+ACSM 
+_2022_, San Diego, California, USA.
+A Biological Sex Comparison of Muscle Contractile Function and Calcium regulation in The Onset of Colorectal Cancer-Induced Cachexia
+**Francielly Morena da Silva**, J. William Deaver, Seongkyun Lim, Ana Regina Cabrera, Eleanor Schrems, Landen Saling, Tyrone A. Washington, Nicholas P. Greene
+
+Differential Induction of Regulators of Protein Turnover during C26-induced Cancer Cachexia between Biological Sex
+Seongkyun Lim, J. William Deaver, **Francielly Morena da Silva**, Ana Regina Cabrera, Eleanor R. Schrems, Landen W. Saling, Anthony Campitelli, Tyrone A. Washington, Nicholas P. Greene, FACSM. 
+
+Mitochondrial Quality Control Markers During the Onset of Colorectal Cancer-Induced Cachexia: A Biological Sex Comparison
+Ana Regina Cabrera, J. William Deaver, Seongkyun Lim, **Francielly Morena da Silva**, Eleanor Schrems, Landen Saling, Anthony Campitelli, Tyrone A. Washington, Nicholas P. Greene
+
+Analysis of the Transcriptome of Soleus Muscle in Sarcopenic Obese Mice
+Eleanor R. Schrems, Landen W. Saling, Breanna M. Williams, **Francielly Morena Da Silva**, Regina Cabrera, Seongkyun Lim, Nicholas P. Greene, FACSM, Tyrone A. Washington
+
+Growth Differentiation Factor 5 Is A Paracrine Regulator in Sarcopenic Obesity
+Landen W. Saling, Eleanor R. Schrems, Seongkyun Lim, **Francielly Morena Da Silva**, Regina Cabrera1, Kevin A. Murach, Nicholas P. Greene, FACSM, Tyrone A. Washington
+
+Males, but Not Females, Demonstrate Mitochondrial Dysfunction in the
+C26 Model of Cancer Cachexia
+Ricky D. Solis, J. William Deaver, Eleanor R. Schrems, Ana Regina Cabrera, Seongkyun Lim, **Francielly Morena Da Silva**, Tyrone A. Washington, Nicholas P. Greene, and Michael P. Wiggs
+
+APS – Flash talk Virtual Presentation 
+_2021_
+Comparison of the Phenotypic Development of C26 Colorectal Cancer-Induced Cachexia Between Biological Sexes
+**Francielly Morena da Silva**, J. William Deaver, Seongkyun Lim, Ana Regina Cabrera, Eleanor Schrems, Landen Saling, Tyrone A. Washington, Nicholas P. Greene
+
+UARK-UAMS Meeting – Poster presentation 
+_2021_, Fayetteville, Arkansas, USA.
+Comparison of the Phenotypic Development of C26 Colorectal Cancer-Induced Cachexia Between Biological Sexes
+**Francielly Morena da Silva**, J. William Deaver, Seongkyun Lim, Ana Regina Cabrera, Eleanor Schrems, Landen Saling, Tyrone A. Washington, Nicholas P. Greene
+
+AIMSRC – Poster’s Coauthor
+_2021_, Fayetteville, Arkansas, USA.
+A Biological Sex Comparison of Muscle Contractile Function in The Onset of Colorectal Cancer-Induced Cachexia
+Ana Regina Cabrera, J. William Deaver, Seongkyun Lim, **Francielly Morena da Silva**, Eleanor Schrems, Landen Saling, Tyrone A. Washington, Nicholas P. Greene
+
+Poster Presentation |13th International Sarcopenia, Cachexia and Wasting Disorders Conference Virtual
+_2020_
+**Francielly Morena da Silva**, Seongkyun Lim, Megan E. Rosa-Caldwell1, Wesley S. Haynie, Lisa T. Jansen, Kristen R. Dunlap, J. William Deaver, Michael Wiggs, Tyrone A. Washington, Nicholas P. Greene. Alterations in Extracellular Matrix Remodeling During Early Stages of Cancer Cachexia in Tumor-bearing Female Mice.
+
+Poster Presentation | 13th International Sarcopenia, Cachexia and Wasting Disorders Conference Virtual
+_2020_
+Seongkyun Lim, Megan E. Rosa-Caldwell, Wesley S. Haynie, Lisa T. Jansen, Kirsten R. Dunlap, **Francielly Morena da Silva**, J. William Deaver1, Michael Wiggs, Tyrone A. Washington, Nicholas P. Greene1. Alterations in Mitochondrial Turnover during the Development of Cancer Cachexia in Tumor-Bearing Female Mice.
+
+Poster Presentation | 13th International Sarcopenia, Cachexia and Wasting Disorders Conference Virtual
+_2020_
+J. William Deaver, Megan E. Rosa-Caldwell, Wesley A. Haynie, Seongkyun Lim, Jacob L. Brown, **Francielly Morena Da Silva*, Kirsten R. Dunlap1, Lisa T. Jansen, David E. Lee, Michael P. Wiggs, Tyrone A. Washington, Nicholas P. Greene. Early Differential Responses by Sex to Hindlimb-Unloading Induced Muscle Atrophy.
+
+Poster Presentation | SIICUSP University of Sao Paulo, Sao Paulo, Brazil
+_2018_
+**Francielly Morena da Silva**, Joao Gomes, Edilamar Menezes de Oliveira. Characterization of The Effects of Physical Exercise in the Structural Alteration of Tumor in Murine Cancer Models.
+
+
+
+### **PROFESSIONAL MEMBERSHIPS**
+
+*	Society on Sarcopenia, Cachexia and Wasting Disorders | 2020-2022
+*	American College of Sports Medicine | 2022
+
+### **LABORATORY SKILLS**
+
+*	Animal Handling, including grip strength test, treadmill training, in vivo electrical force production & fatigability test, plasmid transfection in vivo, drug injection (BGP-15), tissue harvest
+*	Animal breeding and colony maintenance 
+*	Genotyping
+*	Gas Chromatography Mass Spectrometry: initial set-up, muscle tissue preparation for fractional rate of incorporated protein 
+*	RNA isolation, cDNA synthesis, and quantitative real-time PCR 
+*	RNA Sequencing preparation and analysis
+*	Protein preparation and immunoblotting analysis 
+*	Cell culture with C2C12 
+*	Plasmid transfection
+*	In vitro myotube diameter analysis
+*	Controlled drugs cell experiments (BGP-15, Olomoucine) 
+*	Tissue freezing in OCT 
+*	Cryosections preparation (fixing, mounting) 
+*	Histology: H&E staining, SDH staining, immune fluorescent fiber typing
+*	Fluorescent microscopy technique for pMitoTimer using mitochondrial reporter gene (mitochondrial quality)
