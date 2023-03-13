@@ -10,5 +10,5 @@ Description: answers from assigment 3 about remote
 computing - running slurm job on mt_genomes file in 
 HPC  
 
-**hello_world.py**  
+`hello_world.py`
 Description: first python3 script 
