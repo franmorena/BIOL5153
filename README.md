@@ -14,3 +14,6 @@ HPC
 
 **assn-04**
 `writing_pinnacle_slurm.py` contains python script that will print to STDOUT a SLURM script for running jobs on the Pinnacle cluster
+
+**assn-05**
+`writing_pinnacle_slurm.py` has been updated. Parse Arguments for positional variable (job), and optional variables (queue, walltime, nodes, and processors) were added to this script.
