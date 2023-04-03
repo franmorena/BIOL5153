@@ -10,20 +10,14 @@ parser = argparse.ArgumentParser(description="this script prints SBASH script wi
 parser.add_argument("job", help="title of project/job", type=str)
 
 # add optional arguments
-parser.add_argument("-queue", help="which HPC queue is used", default = "comp72", type=str)
-parser.add_argument("-walltime", help="maximum walltime designated for a job", default="1", type=int)
-parser.add_argument("-nodes", help="number of HPC nodes to utilize for a job", default="1", type=int)
-parser.add_argument("-processors", help="number of HPC processors to utilize for a job", default="1", type=int)
+parser.add_argument("-q", "--queue", help = "which HPC queue is used (comp01, comp06, comp72)", default = "comp72", type=str)
+parser.add_argument("-w", "--walltime", help = "maximum walltime designated for a job (default = 1)", default = "1", type=int)
+parser.add_argument("-n", "--nodes", help = "number of HPC nodes to utilize for a job (default = 1)", default = "1", type=int)
+parser.add_argument("-p", "--processors", help="number of HPC processors to utilize for a job", default="1", type=int)
 
 # parse arguments
 args = parser.parse_args()
 
-# set variables 
-job_name = args.job
-queue = args.queue 
-walltime = args.walltime
-num_nodes = args.nodes
-num_processors = args.processors
 
 #print bash header
 print('#! /bin/bash') 
@@ -31,12 +25,12 @@ print('#! /bin/bash')
 print()
 
 # print SBATH commands 
-print('#SBATCH --job-name=' + job_name)
-print('#SBATCH --partition', queue)
-print('#SBATCH --nodes=1' + str(num_nodes))
+print('#SBATCH --job-name=' + args.job)
+print('#SBATCH --partition', args.queue)
+print('#SBATCH --nodes=' + str(args.nodes))
 print('#SBATCH --qos comp')
-print('#SBATCH --tasks-per-node=32')
-print('#SBATCH --time=' + str(walltime) + ':00:00')
+print('#SBATCH --tasks-per-node=' +str(args.processors))
+print('#SBATCH --time=' + str(args.walltime) + ':00:00')
 print('#SBATCH -o test_%j.out')
 print('#SBATCH -e test_%j.err')
 print('#SBATCH --mail-type=ALL')
