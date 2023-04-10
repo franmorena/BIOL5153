@@ -17,3 +17,6 @@ HPC
 
 **assn-05**
 `writing_pinnacle_slurm.py` has been updated. Parse Arguments for positional variable (job), and optional variables (queue, walltime, nodes, and processors) were added to this script.
+
+**assn-06**
+`python_readgff.py` is a single parse arg script to read each line, then remove line break, strip and split column, then finally calculate the length of each gene/feature. 
