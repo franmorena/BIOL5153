@@ -3,6 +3,7 @@
 # import modules
 import argparse
 import csv 
+from Bio import SeqIO
 
 # create an ArgumentParser Object 
 parser = argparse.ArgumentParser(description="this script prints SBASH script with passed parameters/argument and options")
@@ -15,7 +16,10 @@ parser.add_argument ("fasta_file", help="corresponding FASTA file name", type=st
 # access argument values via `args` variable
 args = parser.parse_args()
 
-# commands here 
+# read in the FASTA file
+
+genome = SeqIO.read(args.fasta_file, "fasta")
+print(genome.seq) 
 
 # open files and read lines - line by line
 # gff_file = open(args.gff_file, "r")
@@ -52,7 +56,7 @@ with open(args.gff_file) as gff:
 		# split line on tab character
 			# columns = line.split('\t') 
 	
-		#give variables names to the line variable | it was column before  
+		# give variables names to the line variable | it was column before  
 			organism = line[0]
 			source = line[1]
 			feature_type = line[2]
@@ -69,7 +73,15 @@ with open(args.gff_file) as gff:
 		
 		# joint in a character 
 			new_line = '\t'.join(line)
-			print(new_line)
+			#print(new_line)
 
-
+		# extract each feature in the genome 
+			feature_seq = genome.seq[start-1:end]
+			
+		# check if the length match with the previous calculated length 
+			#print(len(feature_seq) - ((end-start)+1))
+			
+		# print FASTA output for this sequence
+			print(">" + organism, feature_type, attributes)
+			print(feature_seq)
 
